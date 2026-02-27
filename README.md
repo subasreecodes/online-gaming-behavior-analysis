@@ -57,4 +57,4 @@ Statistics: Correlation Matrices, Quantile binning, segmentation
 
 Conclusion:
 <br>
-This project demonstrates how behavioral analytics can guide player segmentation, monetization strategy, and game design decisions. Even with synthetic-like data, the engagement model reveals that immersive gameplay depth—not just play frequency drives retention and long-term player value. These insights can inform the development of recommendation engines that enhance both player satisfaction and business revenue in competitive gaming ecosystems.
+This project demonstrates how behavioral analytics can guide player segmentation, monetization strategy, and game design decisions. Even with synthetic-like data, the engagement model reveals that immersive gameplay depth not just play frequency drives retention and long-term player value. These insights can inform the development of recommendation engines that enhance both player satisfaction and business revenue in competitive gaming ecosystems.
